@@ -4,4 +4,4 @@
 - Discord Username:
 - Github Username:
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)] by putting `https://gitpod.io/#` before your repo url.
+![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg) by putting `https://gitpod.io/#` before your repo url.
