@@ -1,6 +1,5 @@
 # CS110: Introduction to Programming Portfolio
 
-- Preferred Name: 
+- Preferred Name:
 - Discord Username:
 - Github Username:
-- REPL Join Link:
