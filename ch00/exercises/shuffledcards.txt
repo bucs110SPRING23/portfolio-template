@@ -1,0 +1,33 @@
+
+1. Split by color
+2. split by shape
+3. List numbers in order
+4. Make the cards math the number order
+
+
+More space, faster
+Less Space, is slower
+
+Time vs Memory
+
+ASSUMPTION:
+- PLaying cards
+- Literate (can read)
+
+
+Time:
+- Not having unecessary steps
+- Simplicity/Elegance
+- Shortest Time
+
+Validity:
+- Ensuring correct algorithms
+
+Memory:
+- How much memory is needed to solve the problem
+
+
+Effective Communication
+ - Comments
+ - Whitespace (return, space, tab)
+ - proper naming
